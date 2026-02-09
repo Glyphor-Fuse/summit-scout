@@ -1,4 +1,4 @@
-import { Compass, Map, Radio, ShieldAlert, Star, Users } from 'lucide-react';
+import { Compass, Map, Radio, ShieldAlert, Star, Users, WifiOff } from 'lucide-react';
 import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 
 const features = [
